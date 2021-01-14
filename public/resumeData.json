@@ -118,34 +118,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Dog Breed Classifier",
+        "category":"Deep learning model identifying dog breed from image ",
+        "image":"dog_classifier.jpg",
+        "url":"https://www.youtube.com/watch?v=fxEv6RjpeIw"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"PhotoApp",
+        "category":"A hub for users to register/login and share their photos",
+        "image":"photo_app.jpg",
+        "url":"http://167.99.14.231:8000/login"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Snow Mountain Checker",
+        "category":"Interactive map app with all Epic pass snow mountains, allowing users to check weather and make comments",
+        "image":"snowboard.jpg",
+        "url":"https://snow-frontend.herokuapp.com/map"
       }
     ]
   },
