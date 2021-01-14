@@ -36,8 +36,8 @@
     "skillmessage":"Here are the coding languages, frameworks and tools I am familiar with:",
     "education":[
       {
-        "school":"The University of Texas at Austin",
-        "degree":"Masters in Computer Science",
+        "school":"University of Texas at Austin",
+        "degree":"MS in Computer Science",
         "graduated":"Expected December 2022",
         "description":"Fully online curriculum focusing on Machine Learning taughy by the same on-campus faculty, enabling myself to learn at my own pace."
       },
@@ -52,6 +52,12 @@
         "degree":"Software Engineering courses",
         "graduated":"January 2020 - August 2020",
         "description":"* [CSCI E-31 Web Application Development using Node.js](https://www.extension.harvard.edu/course-catalog/courses/web-application-development-using-nodejs/25038)\n * [CSCI S-25 Image Processing and Computer Vision](https://www.summer.harvard.edu/course-catalog/courses/image-processing-and-computer-vision/34835)"
+      },
+      {
+        "school":"University of Oklahoma",
+        "degree":"BS + MS in Computer Science",
+        "graduated":"August 2012 - May 2017",
+        "description":"Graduated with honors from the nation's top-5 Petroleum Engineering programs"
       }
     ],
     "work":[
@@ -99,7 +105,7 @@
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"65%"
       },
       {
         "name":"SQL",
@@ -111,7 +117,7 @@
       },
       {
         "name":"HTML",
-        "level":"50%"
+        "level":"55%"
       }
     ]
   },
