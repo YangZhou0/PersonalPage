@@ -63,6 +63,7 @@ class Resume extends Component {
     }
 
     return (
+      <IconContext.Provider value={{ color: "cornflowerblue", size: '2em', className: 'react-icons'}}>
       <section id="resume">
 
       <div className="row education">
@@ -112,6 +113,7 @@ class Resume extends Component {
 			</div>
       </div>
    </section>
+   </IconContext.Provider>
     );
   }
 }
