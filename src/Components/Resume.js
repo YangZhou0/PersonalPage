@@ -1,8 +1,46 @@
 import React, { Component } from 'react';
 import ReactMarkdown from 'react-markdown'
 import gfm from 'remark-gfm'
-
+import { IconContext } from "react-icons";
+import { FaAngular,FaGithub,FaReact,FaPython,FaNodeJs,} from 'react-icons/fa';
+import {SiJavascript,SiDjango,SiMongodb,SiPostgresql,SiCss3,SiHtml5} from "react-icons/si";
 class Resume extends Component {
+  iconSelecter = (skillName) => {
+    switch(skillName){
+      case 'Git':
+        return <FaGithub />
+      case 'JavaScript':
+        return <SiJavascript />
+
+      case 'Python':
+        return <FaPython />
+
+      case 'React':
+        return <FaReact />
+
+      case 'Angular':
+        return <FaAngular />
+
+      case 'Node.js':
+        return <FaNodeJs />
+
+      case 'Django':
+        return <SiDjango />
+
+      case 'MongoDB':
+        return <SiMongodb />
+
+      case 'SQL':
+        return <SiPostgresql />
+
+      case 'CSS':
+        return <SiCss3 />
+
+      case 'HTML':
+        return <SiHtml5 />
+
+    }
+  }
   render() {
 
     if(this.props.data){
@@ -18,9 +56,9 @@ class Resume extends Component {
             <p>{work.description}</p>
         </div>
       })
-      var skills = this.props.data.skills.map(function(skills){
-        var className = 'bar-expand '+skills.name.toLowerCase();
-        return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
+      var skills = this.props.data.skills.map((skill) => {
+        var className = 'bar-expand '+skill.name.toLowerCase();
+        return <li key={skill.name}><span style={{width:skill.level}}className={className}></span><em>{skill.name} {this.iconSelecter(skill.name)}</em></li>
       })
     }
 

@@ -33,7 +33,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are the coding languages, frameworks and tools I am familiar with:",
     "education":[
       {
         "school":"The University of Texas at Austin",
@@ -56,46 +56,62 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"United States Army",
+        "title":"Biomedical Equipment Specialist",
+        "years":"April 2016 - Present",
+        "description":"Provide preventative maintenance and repaired hundreds of various medical equipment used to support military healthcare workers in critical missions all over the world"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Philips Healthcare ",
+        "title":"Field Service Engineer",
+        "years":"October 2019 - June 2020",
+        "description":"Performed preventive maintenance, repairs, tests and calibrations on a wide variety of equipment for over 500 clinics in New York Metro Area. Also participated in setting up emergency hospitals during COVID-19 crisis in NY "
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"70%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"JavaScript",
+        "level":"65%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Python",
+        "level":"75%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
+        "name":"React",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Angular",
+        "level":"70%"
+      },
+      {
+        "name":"Node.js",
+        "level":"60%"
+      },
+      {
+        "name":"Django",
+        "level":"70%"
       },
       {
         "name":"MongoDB",
         "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"40%"
+      },
+      {
+        "name":"HTML",
+        "level":"50%"
       }
     ]
   },
