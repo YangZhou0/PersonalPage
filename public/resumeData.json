@@ -6,7 +6,7 @@
     "image":"profilepic.jpg",
     "nowadays":"I am a recent graduate from Code Platoon, a chicago based coding institution with a mission to help military members navigate in IT industry. At Code Platoon, I learnt how to develop full-stack web application using Django and React.  ",
     "history":["At 15, I started attending an internatioanl high school in Nanjing, China.","At 18, I graduated from high school and came to America on my own for the first time to attend college.", "At 19, I transferred to University of Oklahoma because the public school tuition made a lot more sense to me. ", "At 21, I started my first-ever job as a Undergraduate Researched at University of Oklahoma.","At 23, I swore in to join the United States Army because I love the military lifestyle", "19 - 24, I powered through undergraduate & graduate school in Oklahoma and graduated with honors. I also partied a lot and made many life-long friends", "At 25, I was called into active duty to be trained as a Biomedical Equipment Specialist for the Army in San Antonio, Texas.", "At 26, I completed my training from the Army as the Honor Grad and started working for Philips Healthcare in New York. In the same year, I enrolled in Harvard Extension Schhol to formalize my learning as a software developer.","At 27, I quit my job at Philips Healthcare and enrolled at Code Platoon to learn full-stack web development."],
-    "iLike":["Fitness","Cooking","Travels","Skydiving","Snowboarding","Adventures","Speakeasy"],
+    "iLike":["Fitness","Cooking","Travels","Skydiving","Snowboarding","Adventures","Speakeasy","Becoming a better person"],
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -33,13 +33,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here are the coding languages, frameworks and tools I am familiar with:",
+    "skillmessage":"Here are the coding languages, frameworks and tools I am familiar with.",
     "education":[
       {
-        "school":"The University of Texas at Austin",
-        "degree":"Masters in Computer Science",
+        "school":"University of Texas at Austin",
+        "degree":"MS in Computer Science",
         "graduated":"Expected December 2022",
-        "description":"Fully online curriculum focusing on Machine Learning taughy by the same on-campus faculty, enabling myself to learn at my own pace."
+        "description":"Fully online curriculum focusing on [Machine Learning](https://www.cs.utexas.edu/graduate-program/masters-program/online-option/courses) by the nation's Top 5-ranked program, enabling myself to learn at my own pace."
       },
       {
         "school":"Code Platoon",
@@ -52,6 +52,12 @@
         "degree":"Software Engineering courses",
         "graduated":"January 2020 - August 2020",
         "description":"* [CSCI E-31 Web Application Development using Node.js](https://www.extension.harvard.edu/course-catalog/courses/web-application-development-using-nodejs/25038)\n * [CSCI S-25 Image Processing and Computer Vision](https://www.summer.harvard.edu/course-catalog/courses/image-processing-and-computer-vision/34835)"
+      },
+      {
+        "school":"University of Oklahoma",
+        "degree":"BS + MS in Computer Science",
+        "graduated":"August 2012 - May 2017",
+        "description":"Graduated with honors from the nation's top-5 Petroleum Engineering programs"
       }
     ],
     "work":[
@@ -99,7 +105,7 @@
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"65%"
       },
       {
         "name":"SQL",
@@ -111,7 +117,7 @@
       },
       {
         "name":"HTML",
-        "level":"50%"
+        "level":"55%"
       }
     ]
   },
