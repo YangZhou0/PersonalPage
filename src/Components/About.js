@@ -6,7 +6,15 @@ class About extends Component {
     if(this.props.data){
       var name = this.props.data.name;
       var profilepic= "images/"+this.props.data.image;
-      var bio = this.props.data.bio;
+      var nowadays = this.props.data.nowadays;
+
+      var history= this.props.data.history.map(function(singleHistory){
+         return <li>{singleHistory}</li>
+       })
+      var iLike= this.props.data.iLike.map(function(singleILike){
+         return <li>{singleILike}</li>
+       })
+
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
@@ -20,34 +28,24 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
+            <img className="profile-pic"  src={profilepic} alt="Yang Zhou Profile Pic" />
          </div>
          <div className="nine columns main-col">
 
-            <h2>CURRENTLY</h2>
-
-            <p>{bio}</p>
+            <h2>NOWADAYS</h2>
+            
+            <p>{nowadays}</p>
 
             <h2>SOME HISTORY</h2>
 
-            <p>{bio}</p>
-
-            <h2>FUN FACTS</h2>
-
-            <p>{bio}</p>
+            <p>{history}</p>
 
 
             <div className="row">
                <div className="columns contact-details">
-                  <h2>Contact Details</h2>
-                  <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
-                   </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
-					   </p>
+                  <h2>I'M INTO</h2>
+
+                  <p>{iLike}</p>
                </div>
                <div className="columns download">
                   <p>
