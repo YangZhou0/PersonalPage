@@ -16,7 +16,7 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "#",
     "resumedownload":"/files/YangZhou_resume.pdf",
     "social":[
 
@@ -36,16 +36,22 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"The University of Texas at Austin",
+        "degree":"Masters in Computer Science",
+        "graduated":"Expected December 2022",
+        "description":"Fully online curriculum focusing on Machine Learning taughy by the same on-campus faculty, enabling myself to learn at my own pace."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Code Platoon",
+        "degree":"Full-Stack Web Development",
+        "graduated":"January 2021",
+        "description":"Over 600 hours of immersive [Full-Stack Software Engineering](https://www.codeplatoon.org/the-program/course-curriculum/#top) training. I learnt build web application from scratch using React and Django."
+      },
+      {
+        "school":"Harvard Extension School",
+        "degree":"Software Engineering courses",
+        "graduated":"January 2020 - August 2020",
+        "description":"* [CSCI E-31 Web Application Development using Node.js](https://www.extension.harvard.edu/course-catalog/courses/web-application-development-using-nodejs/25038)\n * [CSCI S-25 Image Processing and Computer Vision](https://www.summer.harvard.edu/course-catalog/courses/image-processing-and-computer-vision/34835)"
       }
     ],
     "work":[
