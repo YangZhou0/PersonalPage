@@ -6,10 +6,10 @@
     "image":"profilepic.jpg",
     "nowadays":"I am a recent graduate from Code Platoon, a chicago based coding institution with a mission to help military members navigate in IT industry. At Code Platoon, I learnt how to develop full-stack web application using Django and React.  ",
     "history":["At 15, I started attending an internatioanl high school in Nanjing, China.","At 18, I graduated from high school and came to America on my own for the first time to attend college.", "At 19, I transferred to University of Oklahoma because the public school tuition made a lot more sense to me. ", "At 21, I started my first-ever job as a Undergraduate Researched at University of Oklahoma.","At 23, I swore in to join the United States Army because I love the military lifestyle", "19 - 24, I powered through undergraduate & graduate school in Oklahoma and graduated with honors. I also partied a lot and made many life-long friends", "At 25, I was called into active duty to be trained as a Biomedical Equipment Specialist for the Army in San Antonio, Texas.", "At 26, I completed my training from the Army as the Honor Grad and started working for Philips Healthcare in New York. In the same year, I enrolled in Harvard Extension Schhol to formalize my learning as a software developer.","At 27, I quit my job at Philips Healthcare and enrolled at Code Platoon to learn full-stack web development."],
-    "iLike":["Fitness","Cooking","Travels","Skydiving","Snowboarding","Adventures","Speakeasy"],
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "iLike":["Fitness","Cooking","Travels","Skydiving","Snowboarding","Adventures","Speakeasy","Becoming a better person"],
+    "contactmessage":"Send me a message, this will go directly to my email inbox and I check it everyday.",
+    "email": "yzhou3991@gmail.com",
+    "phone": "405-602-4355",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
@@ -29,17 +29,27 @@
         "name":"github",
         "url":"https://github.com/yangzhou93",
         "className":"fa fa-github"
+      },
+      {
+        "name":"angellist",
+        "url":"https://angel.co/p/yang-zhou-12",
+        "className":"fa fa-angellist"
+      },
+      {
+        "name":"mail",
+        "url":"mailto:yzhou3991@gmail.com",
+        "className":"fa fa-envelope"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here are the coding languages, frameworks and tools I am familiar with:",
+    "skillmessage":"Here are the coding languages, frameworks and tools I am familiar with.",
     "education":[
       {
         "school":"University of Texas at Austin",
         "degree":"MS in Computer Science",
         "graduated":"Expected December 2022",
-        "description":"Fully online curriculum focusing on Machine Learning taughy by the same on-campus faculty, enabling myself to learn at my own pace."
+        "description":"Fully online curriculum focusing on [Machine Learning](https://www.cs.utexas.edu/graduate-program/masters-program/online-option/courses) by the nation's Top 5-ranked program, enabling myself to learn at my own pace."
       },
       {
         "school":"Code Platoon",
@@ -68,10 +78,28 @@
         "description":"Provide preventative maintenance and repaired hundreds of various medical equipment used to support military healthcare workers in critical missions all over the world"
       },
       {
-        "company":"Philips Healthcare ",
+        "company":"Philips Healthcare",
         "title":"Field Service Engineer",
         "years":"October 2019 - June 2020",
         "description":"Performed preventive maintenance, repairs, tests and calibrations on a wide variety of equipment for over 500 clinics in New York Metro Area. Also participated in setting up emergency hospitals during COVID-19 crisis in NY "
+      },
+      {
+        "company":"Pad Thai restaurant",
+        "title":"Waiter",
+        "years":"July 2016 - April 2017",
+        "description":"Waiting tables at a popular Thai restaurtant at the heart of the college town. It was fun during the football seasons."
+      },
+      {
+        "company":"University of Oklahoma",
+        "title":"Research Assistant",
+        "years":"February 2014 - December 2016",
+        "description":"I spent a lot of time in the engineering lab performing rock-mechanics experiments and collecting data. I then used Matlab to do analysis on them to support ongoing researches. My graduate thesis was based on the experiments I performed."
+      },
+      {
+        "company":"University of Oklahoma",
+        "title":"Teaching Assistant",
+        "years":"January 2016 - December 2016",
+        "description":"Teaching graduate level classes, grading homework and hosting office hours for students. This was actually pretty fun, I got to see what it was like on the other side of the classroom."
       }
     ],
     "skills":[
