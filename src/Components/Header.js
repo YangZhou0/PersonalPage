@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { FaAngellist} from 'react-icons/fa';
 
 class Header extends Component {
   render() {
