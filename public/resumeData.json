@@ -34,6 +34,11 @@
         "name":"angellist",
         "url":"https://angel.co/p/yang-zhou-12",
         "className":"fa fa-angellist"
+      },
+      {
+        "name":"mail",
+        "url":"https://angel.co/p/yang-zhou-12",
+        "className":"fa fa-envelope"
       }
     ]
   },
