@@ -2,10 +2,22 @@ import React, { Component } from 'react';
 import emailjs from 'emailjs-com';
 
 class Contact extends Component {
-   sendEmail(e){
+   state = {
+      sending: false,
+      sent: false
+   }
+   sendEmail = (e)=>{
       e.preventDefault();
+      this.setState({
+         sent:false,
+         sending: true
+       });
       emailjs.sendForm('gmail', 'PersonlWebsiteTemplate', e.target,'user_3Q1BN5VK34Zw6T4sR83su')
          .then((result) => {
+            this.setState({
+               sending: false,
+               sent: true
+            })
             console.log(result.text);
             e.target.reset()
          }, (error) => {
@@ -72,17 +84,17 @@ class Contact extends Component {
 
                   <div>
                      <button className="submit">Submit</button>
-                     <span id="image-loader">
+                     {this.state.sending && <span id = 'loading'>
                         <img alt="" src="images/loader.gif" />
-                     </span>
+                     </span>}
+                     {this.state.sent && <span id ='sentSuccess'>
+                        <i className="fa fa-check"></i>Your message was sent, thank you!<br />
+                     </span>}
                   </div>
 					</fieldset>
 				   </form>
 
-           <div id="message-warning"> Error boy</div>
-				   <div id="message-success">
-                  <i className="fa fa-check"></i>Your message was sent, thank you!<br />
-				   </div>
+				   
            </div>
 
 
