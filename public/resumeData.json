@@ -1,12 +1,12 @@
 {
   "main": {
     "name":"Yang Zhou",
-    "occupation":"Software Developer",
-    "description":"I like building things with web technology. I studied Petroleum Engineering during college and later found out my interest in coding. Scroll down to checkout more about my learning journey as a developer",
+    "occupation":"Full-stack Developer",
+    "description":"I like building web applications and I admire beautiful designs. I studied Petroleum Engineering during college and later found out my interest in coding. Scroll down to check out more about my journey of becoming a developer",
     "image":"profilepic.jpg",
-    "nowadays":"I am a recent graduate from Code Platoon, a chicago based coding institution with a mission to help military members navigate in IT industry. At Code Platoon, I learnt how to develop full-stack web application using Django and React.  ",
-    "history":["At 15, I started attending an internatioanl high school in Nanjing, China.","At 18, I graduated from high school and came to America on my own for the first time to attend college.", "At 19, I transferred to University of Oklahoma because the public school tuition made a lot more sense to me. ", "At 21, I started my first-ever job as a Undergraduate Researched at University of Oklahoma.","At 23, I swore in to join the United States Army because I love the military lifestyle", "19 - 24, I powered through undergraduate & graduate school in Oklahoma and graduated with honors. I also partied a lot and made many life-long friends", "At 25, I was called into active duty to be trained as a Biomedical Equipment Specialist for the Army in San Antonio, Texas.", "At 26, I completed my training from the Army as the Honor Grad and started working for Philips Healthcare in New York. In the same year, I enrolled in Harvard Extension Schhol to formalize my learning as a software developer.","At 27, I quit my job at Philips Healthcare and enrolled at Code Platoon to learn full-stack web development."],
-    "iLike":["Fitness","Cooking","Travels","Skydiving","Snowboarding","Adventures","Speakeasy","Becoming a better person"],
+    "nowadays":"I am a recent graduate from Code Platoon, a chicago based coding institution with a mission to help military members navigate in IT industry. At Code Platoon, I learnt how to develop full-stack web applications using Django and React.  ",
+    "history":["At 15, I started attending an internatioanl high school in Nanjing, China.","At 18, I graduated from high school and came to America on my own for the first time to attend college.", "At 19, I transferred to University of Oklahoma because the public school tuition made a lot more sense to me. ", "At 21, I started my first-ever job as a Undergraduate Researcher at University of Oklahoma.","At 23, I swore in to join the United States Army because I love the military lifestyle", "19 - 24, I powered through undergraduate & graduate school in Oklahoma and graduated with honors. I also socialized a lot and made many life-long friends", "At 25, I was called into active duty to be trained as a Biomedical Equipment Specialist for the Army in San Antonio, Texas.", "At 26, I completed my training from the Army as the Honor Grad and started working for Philips Healthcare in New York. In the same year, I enrolled in Harvard Extension Schhol to formalize my learning as a software developer.","At 27, I quit my job at Philips Healthcare and enrolled at Code Platoon to learn full-stack web development."],
+    "iLike":["Fitness","Cooking","Books","Travels","Skydiving","Snowboarding","Adventures","Speakeasy","Becoming a better person"],
     "contactmessage":"Send me a message, this will go directly to my email inbox and I check it everyday.",
     "email": "yzhou3991@gmail.com",
     "phone": "405-602-4355",
@@ -55,7 +55,7 @@
         "school":"Code Platoon",
         "degree":"Full-Stack Web Development",
         "graduated":"January 2021",
-        "description":"Over 600 hours of immersive [Full-Stack Software Engineering](https://www.codeplatoon.org/the-program/course-curriculum/#top) training. I learnt build web application from scratch using React and Django."
+        "description":"Over 600 hours of immersive [Full-Stack Software Engineering](https://www.codeplatoon.org/the-program/course-curriculum/#top) training. I learnt how to build web application from scratch using React and Django."
       },
       {
         "school":"Harvard Extension School",
@@ -65,9 +65,9 @@
       },
       {
         "school":"University of Oklahoma",
-        "degree":"BS + MS in Computer Science",
+        "degree":"BS + MS in Petroleum Engineering",
         "graduated":"August 2012 - May 2017",
-        "description":"Graduated with honors from the nation's top-5 Petroleum Engineering programs"
+        "description":"Graduated with honors from the nation's top-5 Petroleum Engineering programs."
       }
     ],
     "work":[
@@ -75,19 +75,19 @@
         "company":"United States Army",
         "title":"Biomedical Equipment Specialist",
         "years":"April 2016 - Present",
-        "description":"Provide preventative maintenance and repaired hundreds of various medical equipment used to support military healthcare workers in critical missions all over the world"
+        "description":"Provide preventative maintenance and repair hundreds of various medical equipment used to support United States soldiers in critical missions all over the world."
       },
       {
         "company":"Philips Healthcare",
         "title":"Field Service Engineer",
         "years":"October 2019 - June 2020",
-        "description":"Performed preventive maintenance, repairs, tests and calibrations on a wide variety of equipment for over 500 clinics in New York Metro Area. Also participated in setting up emergency hospitals during COVID-19 crisis in NY "
+        "description":"Performed preventive maintenance, repairs, tests and calibrations on a wide range of equipment for over 500 clinics in New York Metro Area. Also participated in setting up emergency hospitals during COVID-19 crisis in NY."
       },
       {
         "company":"Pad Thai restaurant",
         "title":"Waiter",
         "years":"July 2016 - April 2017",
-        "description":"Waiting tables at a popular Thai restaurtant at the heart of the college town. It was fun during the football seasons."
+        "description":"Waited tables at a popular Thai restaurtant at the heart of the college town. It was fun during the football seasons. Polished my customer-relation skills."
       },
       {
         "company":"University of Oklahoma",
@@ -99,7 +99,7 @@
         "company":"University of Oklahoma",
         "title":"Teaching Assistant",
         "years":"January 2016 - December 2016",
-        "description":"Teaching graduate level classes, grading homework and hosting office hours for students. This was actually pretty fun, I got to see what it was like on the other side of the classroom."
+        "description":"Taught graduate level classes, grading homework and hosting office hours for students. This was actually pretty fun, I got to see what it was like on the other side of the classroom."
       }
     ],
     "skills":[
@@ -109,7 +109,7 @@
       },
       {
         "name":"JavaScript",
-        "level":"65%"
+        "level":"75%"
       },
       {
         "name":"Python",
@@ -141,11 +141,11 @@
       },
       {
         "name":"CSS",
-        "level":"40%"
+        "level":"65%"
       },
       {
         "name":"HTML",
-        "level":"55%"
+        "level":"70%"
       }
     ]
   },
