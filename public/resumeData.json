@@ -68,10 +68,28 @@
         "description":"Provide preventative maintenance and repaired hundreds of various medical equipment used to support military healthcare workers in critical missions all over the world"
       },
       {
-        "company":"Philips Healthcare ",
+        "company":"Philips Healthcare",
         "title":"Field Service Engineer",
         "years":"October 2019 - June 2020",
         "description":"Performed preventive maintenance, repairs, tests and calibrations on a wide variety of equipment for over 500 clinics in New York Metro Area. Also participated in setting up emergency hospitals during COVID-19 crisis in NY "
+      },
+      {
+        "company":"Pad Thai restaurant",
+        "title":"Waiter",
+        "years":"July 2016 - April 2017",
+        "description":"Waiting tables at a popular Thai restaurtant at the heart of the college town. It was fun during the football seasons."
+      },
+      {
+        "company":"University of Oklahoma",
+        "title":"Research Assistant",
+        "years":"February 2014 - December 2016",
+        "description":"I spent a lot of time in the engineering lab performing rock-mechanics experiments and collecting data. I then used Matlab to do analysis on them to support ongoing researches. My graduate thesis was based on the experiments I performed."
+      },
+      {
+        "company":"University of Oklahoma",
+        "title":"Teaching Assistant",
+        "years":"January 2016 - December 2016",
+        "description":"Teaching graduate level classes, grading homework and hosting office hours for students. This was actually pretty fun, I got to see what it was like on the other side of the classroom."
       }
     ],
     "skills":[
