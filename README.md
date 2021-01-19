@@ -1,4 +1,3 @@
-:fire::fire:
 ## Checkout my [personal page](https://yangzhou-site.herokuapp.com/)
 
 
