@@ -1,6 +1,6 @@
-:fire::fire::fire::fire::fire::fire:
+:fire::fire:
 ## Checkout my [personal page](https://yangzhou-site.herokuapp.com/)
-:fire::fire::fire::fire::fire::fire:
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
