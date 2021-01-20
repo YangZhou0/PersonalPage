@@ -2,10 +2,11 @@ import React, { useState, useEffect, useRef } from 'react';
 
 
 const messages = [
-  'Veteran',
   'full-stack developer',
+  'veteran',
   'Computer Science student',
   'adventurist',
+  'optimist',
   'lifelong learner'
 ];
 
@@ -33,7 +34,7 @@ const OccupationList = () => {
 
   const [idx, updateIter] = useState(0); // points to current message
   const [message, updateMessage] = useState(messages[idx]);
-  const [char, updateChar] = useState(messages[idx].length); // points to current char
+  const [char, updateChar] = useState(0); // points to current char
   const [isActive, setIsActive] = useState(true); // disable when all messages are printed
 
   useInterval(() => {
@@ -46,6 +47,7 @@ const OccupationList = () => {
     if (newIdx === messages.length) {
       // setIsActive(false);
       updateIter(0)
+      updateChar(0)
     } else {
       updateMessage(messages[newIdx].slice(0, newChar));
       updateIter(newIdx);
