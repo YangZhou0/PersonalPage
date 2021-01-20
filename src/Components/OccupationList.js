@@ -44,7 +44,8 @@ const OccupationList = () => {
       newChar = 0;
     }
     if (newIdx === messages.length) {
-      setIsActive(false);
+      // setIsActive(false);
+      updateIter(0)
     } else {
       updateMessage(messages[newIdx].slice(0, newChar));
       updateIter(newIdx);
