@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import OccupationList from './OccupationList'
 class Header extends Component {
   render() {
 
@@ -36,7 +36,7 @@ class Header extends Component {
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
             {/* <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3> */}
-            <h3>I'm a <span>{occupation}</span>. {description}.</h3>
+            <h3>I'm a <span><OccupationList /></span>.<br/> {description}.</h3>
             <hr />
             <ul className="social">
                {networks}

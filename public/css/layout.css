@@ -74,6 +74,7 @@ header .banner-text h3 {
 header .banner-text h3 span,
 header .banner-text h3 a {
    color: #fff;
+   text-decoration: underline dotted;
 }
 header .banner-text hr {
    width: 60%;
