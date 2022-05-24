@@ -1,185 +1,203 @@
 {
   "main": {
-    "name":"Yang Zhou",
-    "occupation":"Full-stack Developer",
-    "description":"I like building web applications and I admire beautiful designs. I studied Petroleum Engineering during college and later found out my interest in coding. Scroll down to check out more about my journey of becoming a developer",
-    "image":"profilepic.jpg",
-    "nowadays":"I am a recent graduate from Code Platoon, a chicago based coding institution with a mission to help military members navigate in IT industry. At Code Platoon, I learnt how to develop full-stack web applications using Django and React.  ",
-    "history":["At 15, I started attending an internatioanl high school in Nanjing, China.","At 18, I graduated from high school and came to America on my own for the first time to attend college.", "At 19, I transferred to University of Oklahoma because the public school tuition made a lot more sense to me. ", "At 21, I started my first-ever job as a Undergraduate Researcher at University of Oklahoma.","At 23, I swore in to join the United States Army because I love the military lifestyle", "19 - 24, I powered through undergraduate & graduate school in Oklahoma and graduated with honors. I also socialized a lot and made many life-long friends", "At 25, I was called into active duty to be trained as a Biomedical Equipment Specialist for the Army in San Antonio, Texas.", "At 26, I completed my training from the Army as the Honor Grad and started working for Philips Healthcare in New York. In the same year, I enrolled in Harvard Extension Schhol to formalize my learning as a software developer.","At 27, I quit my job at Philips Healthcare and enrolled at Code Platoon to learn full-stack web development."],
-    "iLike":["Fitness","Cooking","Books","Travels","Skydiving","Snowboarding","Adventures","Speakeasy","Becoming a better person"],
-    "contactmessage":"Send me a message, this will go directly to my email inbox and I check it everyday.",
+    "name": "Yang Zhou",
+    "occupation": "Full-stack Developer",
+    "description": "I studied Petroleum Engineering at college and later found out my interest in coding. I started teaching myself web development during my free time and attended a coding bootcamp in 2020. In 2021, I accepted my 1st Software Engineer job and enrolled in a Master of Science in Computer Science program. Scroll down to check out more about my journey of becoming a developer",
+    "image": "profilepic.jpg",
+    "nowadays": "I have been working as a Software Engineer since 2021. I spend most of my days immersed in devliering full-stack web products. I participate in architecutre design as well and solve business challenges using technical tools. I have grown into an indispensable teammate over the last year. Outside work, I spent time studying for my Master's Degree in Computer Science and collaborating with friends on a web project catered for landlords to manage their rental properties. ",
+    "history": [
+      "At 18, I graduated from high school and came to America on my own for the first time to attend college.",
+      "At 19, I transferred to University of Oklahoma because I wanted more affordable tuition and study in engineering",
+      "At 21, I started my first-ever job as a Undergraduate Researcher at University of Oklahoma.",
+      "At 23, I swore in to join the United States Army because I love the military lifestyle",
+      "19 - 24, I powered through undergraduate & graduate school in Oklahoma and graduated with honors. I also socialized a lot and made many life-long friends",
+      "At 25, I was called into active duty to be trained as a Biomedical Equipment Specialist for the Army in San Antonio, Texas.",
+      "At 26, I completed my training from the Army as the Honor Grad and started working for Philips Healthcare in New York. In the same year, I enrolled in Harvard Extension Schhol to formalize my learning as a software developer.",
+      "At 27, I quit my job at Philips Healthcare and enrolled at Code Platoon to learn full-stack web development.",
+      "At 28, I garduated from Code Platoon and landed my 1st Software Engineer job and started working as a full-stack developer."
+    ],
+    "iLike": [
+      "Fitness",
+      "Cooking",
+      "Books",
+      "Travels",
+      "Skydiving",
+      "Snowboarding",
+      "Adventures",
+      "Good food"
+    ],
+    "contactmessage": "Let's connect. A great way to get my attention is to send me an email or direct message me on LinkedIn.",
     "email": "yzhou3991@gmail.com",
     "phone": "405-602-4355",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "#",
-    "resumedownload":"/files/Zhou_Yang_SWD.pdf",
-    "social":[
-
+    "resumedownload": "/files/Zhou_Yang_SWD.pdf",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/yangzhou1/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yangzhou1/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/yangzhou93",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/yangzhou93",
+        "className": "fa fa-github"
       },
       {
-        "name":"angellist",
-        "url":"https://angel.co/p/yang-zhou-12",
-        "className":"fa fa-angellist"
+        "name": "angellist",
+        "url": "https://angel.co/p/yang-zhou-12",
+        "className": "fa fa-angellist"
       },
       {
-        "name":"mail",
-        "url":"mailto:yzhou3991@gmail.com",
-        "className":"fa fa-envelope"
+        "name": "mail",
+        "url": "mailto:yzhou3991@gmail.com",
+        "className": "fa fa-envelope"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here are the coding languages, frameworks and tools I am familiar with.",
-    "education":[
+  "resume": {
+    "skillmessage": "Here are the coding languages, frameworks and tools I am familiar with.",
+    "education": [
       {
-        "school":"University of Texas at Austin",
-        "degree":"MS in Computer Science",
-        "graduated":"Expected December 2022",
-        "description":"Fully online curriculum focusing on [Machine Learning](https://www.cs.utexas.edu/graduate-program/masters-program/online-option/courses) by the nation's Top 5-ranked program, enabling myself to learn at my own pace."
+        "school": "Georgia Institute of Technology",
+        "degree": "MS in Computer Science",
+        "graduated": "Expected December 2024",
+        "description": "Rigorous curriculum focusing on [Computing Systems](https://omscs.gatech.edu/specialization-computing-systems) by the nation's #6 ranked program, enabling myself to expand my technical background in Computer Science."
       },
       {
-        "school":"Code Platoon",
-        "degree":"Full-Stack Web Development",
-        "graduated":"January 2021",
-        "description":"Over 600 hours of immersive [Full-Stack Software Engineering](https://www.codeplatoon.org/the-program/course-curriculum/#top) training. I learnt how to build web application from scratch using React and Django."
+        "school": "Code Platoon",
+        "degree": "Full-Stack Web Development",
+        "graduated": "January 2021",
+        "description": "Over 600 hours of immersive [Full-Stack Software Engineering](https://www.codeplatoon.org/the-program/course-curriculum/#top) training. I learnt how to build web application from scratch using React and Django."
       },
       {
-        "school":"Harvard Extension School",
-        "degree":"Software Engineering courses",
-        "graduated":"January 2020 - August 2020",
-        "description":"* [CSCI E-31 Web Application Development using Node.js](https://www.extension.harvard.edu/course-catalog/courses/web-application-development-using-nodejs/25038)\n * [CSCI S-25 Image Processing and Computer Vision](https://www.summer.harvard.edu/course-catalog/courses/image-processing-and-computer-vision/34835)"
+        "school": "Harvard Extension School",
+        "degree": "Software Engineering courses",
+        "graduated": "January 2020 - August 2020",
+        "description": "* [CSCI E-31 Web Application Development using Node.js](https://canvas.harvard.edu/courses/96093/assignments/syllabus)\n * [CSCI S-25 Image Processing and Computer Vision](https://pll.harvard.edu/course/image-processing-and-computer-vision?delta=0)"
       },
       {
-        "school":"University of Oklahoma",
-        "degree":"BS + MS in Petroleum Engineering",
-        "graduated":"August 2012 - May 2017",
-        "description":"Graduated with honors from the nation's top-5 Petroleum Engineering program."
+        "school": "University of Oklahoma",
+        "degree": "BS + MS in Petroleum Engineering",
+        "graduated": "August 2012 - May 2017",
+        "description": "Graduated with honors from the nation's top-5 Petroleum Engineering program."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"United States Army",
-        "title":"Biomedical Equipment Specialist",
-        "years":"April 2016 - Present",
-        "description":"Provide preventative maintenance and repair hundreds of various medical equipment used to support United States soldiers in critical missions all over the world."
+        "company": "United States Army",
+        "title": "Biomedical Equipment Specialist",
+        "years": "April 2016 - Present",
+        "description": "Provide preventative maintenance and repair hundreds of various medical equipment used to support United States soldiers in critical missions all over the world."
       },
       {
-        "company":"Philips Healthcare",
-        "title":"Field Service Engineer",
-        "years":"October 2019 - June 2020",
-        "description":"Performed preventive maintenance, repairs, tests and calibrations on a wide range of equipment for over 500 clinics in New York Metro Area. Also participated in setting up emergency hospitals during COVID-19 crisis in NY."
+        "company": "Philips Healthcare",
+        "title": "Field Service Engineer",
+        "years": "October 2019 - June 2020",
+        "description": "Performed preventive maintenance, repairs, tests and calibrations on a wide range of equipment for over 500 clinics in New York Metro Area. Also participated in setting up emergency hospitals during COVID-19 crisis in NY."
       },
       {
-        "company":"Pad Thai restaurant",
-        "title":"Waiter",
-        "years":"July 2016 - April 2017",
-        "description":"Waited tables at a popular Thai restaurtant at the heart of the college town. It was fun during the football seasons. Polished my customer-relation skills."
+        "company": "Pad Thai restaurant",
+        "title": "Waiter",
+        "years": "July 2016 - April 2017",
+        "description": "Waited tables at a popular Thai restaurtant at the heart of the college town. It was fun during the football seasons. Polished my customer-relation skills."
       },
       {
-        "company":"University of Oklahoma",
-        "title":"Research Assistant",
-        "years":"February 2014 - December 2016",
-        "description":"I spent a lot of time in the engineering lab performing rock-mechanics experiments and collecting data. I then used Matlab to do analysis on them to support ongoing researches. My graduate thesis was based on the experiments I performed."
+        "company": "University of Oklahoma",
+        "title": "Research Assistant",
+        "years": "February 2014 - December 2016",
+        "description": "I spent a lot of time in the engineering lab performing rock-mechanics experiments and collecting data. I then used Matlab to do analysis on them to support ongoing researches. My graduate thesis was based on the experiments I performed."
       },
       {
-        "company":"University of Oklahoma",
-        "title":"Teaching Assistant",
-        "years":"January 2016 - December 2016",
-        "description":"Taught graduate level classes, graded homework and hosted office hours for students. This was actually pretty fun, I got to see what it was like on the other side of the classroom."
+        "company": "University of Oklahoma",
+        "title": "Teaching Assistant",
+        "years": "January 2016 - December 2016",
+        "description": "Taught graduate level classes, graded homework and hosted office hours for students. This was actually pretty fun, I got to see what it was like on the other side of the classroom."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"70%"
+        "name": "Git",
+        "level": "70%"
       },
       {
-        "name":"JavaScript",
-        "level":"75%"
+        "name": "JavaScript",
+        "level": "75%"
       },
       {
-        "name":"Python",
-        "level":"75%"
+        "name": "Python",
+        "level": "75%"
       },
       {
-        "name":"React",
-        "level":"80%"
+        "name": "React",
+        "level": "80%"
       },
       {
-        "name":"Angular",
-        "level":"70%"
+        "name": "Angular",
+        "level": "70%"
       },
       {
-        "name":"Node.js",
-        "level":"60%"
+        "name": "Node.js",
+        "level": "60%"
       },
       {
-        "name":"Django",
-        "level":"70%"
+        "name": "Django",
+        "level": "70%"
       },
       {
-        "name":"MongoDB",
-        "level":"65%"
+        "name": "MongoDB",
+        "level": "65%"
       },
       {
-        "name":"SQL",
-        "level":"70%"
+        "name": "SQL",
+        "level": "70%"
       },
       {
-        "name":"CSS",
-        "level":"65%"
+        "name": "CSS",
+        "level": "65%"
       },
       {
-        "name":"HTML",
-        "level":"70%"
+        "name": "HTML",
+        "level": "70%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Dog Breed Classifier",
-        "category":"Deep learning model identifying dog breed from image ",
-        "image":"dog_classifier.jpg",
-        "url":"https://www.youtube.com/watch?v=fxEv6RjpeIw"
+        "title": "Dog Breed Classifier",
+        "category": "Deep learning model identifying dog breed from image ",
+        "image": "dog_classifier.jpg",
+        "url": "https://www.youtube.com/watch?v=fxEv6RjpeIw"
       },
       {
-        "title":"PhotoApp",
-        "category":"A hub for users to register/login and share their photos",
-        "image":"photo_app.jpg",
-        "url":"http://167.99.14.231:8000/login"
+        "title": "PhotoApp",
+        "category": "A hub for users to register/login and share their photos",
+        "image": "photo_app.jpg",
+        "url": "http://167.99.14.231:8000/login"
       },
       {
-        "title":"Snow Mountain Checker",
-        "category":"Interactive map app with all Epic pass snow mountains, allowing users to check weather and make comments",
-        "image":"snowboard.jpg",
-        "url":"https://snow-frontend.herokuapp.com/map"
+        "title": "Snow Mountain Checker",
+        "category": "Interactive map app with all Epic pass snow mountains, allowing users to check weather and make comments",
+        "image": "snowboard.jpg",
+        "url": "https://snow-frontend.herokuapp.com/map"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "testimomials 1",
+        "user": "bot 001"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "testimonials 2",
+        "user": "bot 002"
       }
     ]
   }
