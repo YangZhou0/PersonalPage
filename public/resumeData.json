@@ -170,6 +170,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "TenantRM",
+        "category": "Web application that made managing your rental properties easy",
+        "image": "TenantRM.png",
+        "url": "https://www.tenantrm.com/"
+      },
+      {
         "title": "Dog Breed Classifier",
         "category": "Deep learning model identifying dog breed from image ",
         "image": "dog_classifier.jpg",
