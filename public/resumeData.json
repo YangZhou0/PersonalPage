@@ -2,7 +2,7 @@
   "main": {
     "name": "Yang Zhou",
     "occupation": "Full-stack Developer",
-    "description": "I studied Petroleum Engineering at college and later found out my interest in coding. I started teaching myself web development during my free time and attended a coding bootcamp in 2020. In 2021, I accepted my 1st Software Engineer job and enrolled in a Master of Science in Computer Science program. Scroll down to check out more about my journey of becoming a developer",
+    "description": "I studied Petroleum Engineering at college and later found out my interest in coding. I started teaching myself web development during my free time and attended a coding bootcamp in 2020. In 2021, I accepted my 1st Software Engineer job and enrolled in a Master of Science in Computer Science program at Georgia Tech. Scroll down to check out more about my journey of becoming a developer",
     "image": "profilepic.jpg",
     "nowadays": "I have been working as a Software Engineer since 2021. I spend most of my days immersed in devliering full-stack web products. I participate in architecutre design as well and solve business challenges using technical tools. I have grown into an indispensable teammate over the last year. Outside work, I spent time studying for my Master's Degree in Computer Science and collaborating with friends on a web project catered for landlords to manage their rental properties. ",
     "history": [
@@ -14,7 +14,7 @@
       "At 25, I was called into active duty to be trained as a Biomedical Equipment Specialist for the Army in San Antonio, Texas.",
       "At 26, I completed my training from the Army as the Honor Grad and started working for Philips Healthcare in New York. In the same year, I enrolled in Harvard Extension Schhol to formalize my learning as a software developer.",
       "At 27, I quit my job at Philips Healthcare and enrolled at Code Platoon to learn full-stack web development.",
-      "At 28, I garduated from Code Platoon and landed my 1st Software Engineer job and started working as a full-stack developer."
+      "At 28, I garduated from Code Platoon and landed my 1st Software Engineer job and started working as a full-stack developer. In the same year, I started my Master's Degree at Georgia Tech for Computer Science."
     ],
     "iLike": [
       "Fitness",
@@ -89,6 +89,12 @@
       }
     ],
     "work": [
+      {
+        "company": "JPMorgan Chase",
+        "title": "Software Engineer",
+        "years": "March 2021 - Present",
+        "description": "Main contributor of a client-facing application which provides a seamless UI experience for users and reduces amount of time needed for onboarding new clients to use the firm’s services."
+      },
       {
         "company": "United States Army",
         "title": "Biomedical Equipment Specialist",
