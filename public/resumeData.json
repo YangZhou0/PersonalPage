@@ -185,7 +185,7 @@
         "title": "PhotoApp",
         "category": "A hub for users to register/login and share their photos",
         "image": "photo_app.jpg",
-        "url": "http://167.99.14.231:8000/login"
+        "url": "http://137.184.72.12:8000/login"
       },
       {
         "title": "Snow Mountain Checker",
