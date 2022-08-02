@@ -2,9 +2,9 @@
   "main": {
     "name": "Yang Zhou",
     "occupation": "Full-stack Developer",
-    "description": "I studied Petroleum Engineering at college and later found out my interest in coding. I started teaching myself web development during my free time and attended a coding bootcamp in 2020. In 2021, dream came true and I started working as a Software Enginner. Scroll down to check out more about my journey of becoming a developer",
+    "description": "I studied Petroleum Engineering at college and later found out my interest in coding. I started teaching myself web development during my free time and attended a coding bootcamp in 2020. In 2021, I accepted my 1st Software Engineer job and enrolled in a Master of Science in Computer Science program at Georgia Tech. Scroll down to check out more about my journey of becoming a developer",
     "image": "profilepic.jpg",
-    "nowadays": "I have been working as a Software Engineer since 2021. I spend most of my days immersed in devliering full-stack web products. I participate in architecutre design as well and solve business challenges using technical tools. I have grown into an indispensable teammate over the last year. Outside work, I take my skiils further by learning new technologies. I am also an avid fitness promoter and world traveller.",
+    "nowadays": "I have been working as a Software Engineer since 2021. I spend most of my days immersed in devliering full-stack web products. I participate in architecutre design as well and solve business challenges using technical tools. I have grown into an indispensable teammate over the last year. Outside work, I spent time studying for my Master's Degree in Computer Science and enjoy outdoor activities.",
     "history": [
       "At 18, I graduated from high school and came to America on my own for the first time to attend college.",
       "At 19, I transferred to University of Oklahoma because I wanted more affordable tuition and study in engineering",
@@ -14,7 +14,7 @@
       "At 25, I was called into active duty to be trained as a Biomedical Equipment Specialist for the Army in San Antonio, Texas.",
       "At 26, I completed my training from the Army as the Honor Grad and started working for Philips Healthcare in New York. In the same year, I enrolled in Harvard Extension Schhol to formalize my learning as a software developer.",
       "At 27, I quit my job at Philips Healthcare and enrolled at Code Platoon to learn full-stack web development.",
-      "At 28, I garduated from Code Platoon and landed my 1st Software Engineer job and started working as a full-stack developer."
+      "At 28, I garduated from Code Platoon and landed my 1st Software Engineer job and started working as a full-stack developer. In the same year, I started my Master's Degree at Georgia Tech for Computer Science."
     ],
     "iLike": [
       "Fitness",
@@ -63,6 +63,12 @@
   "resume": {
     "skillmessage": "Here are the coding languages, frameworks and tools I am familiar with.",
     "education": [
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "MS in Computer Science",
+        "graduated": "Expected December 2025",
+        "description": "Rigorous curriculum focusing on [Computing Systems](https://omscs.gatech.edu/specialization-computing-systems) by the nation's #6 ranked program, enabling myself to expand my technical background in Computer Science."
+      },
       {
         "school": "Code Platoon",
         "degree": "Full-Stack Web Development",
@@ -169,12 +175,6 @@
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "TenantRM",
-        "category": "Web application that made managing your rental properties easy",
-        "image": "TenantRM.png",
-        "url": "https://www.tenantrm.com/"
-      },
       {
         "title": "Dog Breed Classifier",
         "category": "Deep learning model identifying dog breed from image ",
